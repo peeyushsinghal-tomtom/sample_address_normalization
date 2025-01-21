@@ -1,8 +1,8 @@
-# Address Normalization Project
+# Sample Address Normalization 
 
 ## Overview
 
-This repo is designed to normalize address data using Azure OpenAI's language model. 
+This repository is designed to normalize address data using Azure OpenAI's language model. 
 It processes input data, sends it to the model for normalization, and then post-processes the output to ensure data integrity and consistency.
 
 ## Features

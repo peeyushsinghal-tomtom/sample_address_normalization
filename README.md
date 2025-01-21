@@ -71,6 +71,12 @@ It processes input data, sends it to the model for normalization, and then post-
 ├── run_normalizer.sh
 └── run_post_process.sh
 ```
+## Output 
+The output is created under data/{sampling_run_id}
+The output is kept at https://tomtominternational.sharepoint.com/:f:/s/AnalyticsPublicSite/EilfW7IlTd1KudTW9FZMlnwBzz5O7oaY0EcYo3iFZ_tCtQ?e=xdplYY
+it has two sampling_run_id and it supports top to countries ["USA", "FRA", "ITA", "GBR", "DEU", "ESP", "CAN", "BEL", "NLD", "POL"]
+- 20220602-0001
+- 20240109-0001
 
 ## Notes
 
